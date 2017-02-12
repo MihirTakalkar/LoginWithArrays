@@ -7,3 +7,6 @@ c:\users\gmrinstructor\documents\visual studio 2015\Projects\Mihirs30thLoginArra
 c:\users\gmrinstructor\documents\visual studio 2015\Projects\Mihirs30thLoginArrays\obj\Debug\Mihirs30thLoginArrays.exe
 c:\users\gmrinstructor\documents\visual studio 2015\Projects\Mihirs30thLoginArrays\obj\Debug\Mihirs30thLoginArrays.pdb
 c:\users\gmrinstructor\documents\visual studio 2015\Projects\Mihirs30thLoginArrays\obj\Debug\Mihirs30thLoginArrays.csprojResolveAssemblyReference.cache
+C:\Users\GMRInstructor\Documents\GitHub\MihirTryAgain\bin\Debug\Mihirs30thLoginArrays.exe.config
+C:\Users\GMRInstructor\Documents\GitHub\MihirTryAgain\obj\Debug\Mihirs30thLoginArrays.exe
+C:\Users\GMRInstructor\Documents\GitHub\MihirTryAgain\obj\Debug\Mihirs30thLoginArrays.pdb
